@@ -11,7 +11,4 @@ hello yaojinpeng
 hello yaojinpeng
 hello yaojinpeng
 hello yaojinpeng master test
-此文件内容是在 no-1-master 分支上 
-
-
-branch name ------> no-1-master
+此文件内容是在 no-1-master 分支上 no-1-master test
