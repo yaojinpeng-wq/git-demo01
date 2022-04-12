@@ -10,8 +10,8 @@ hello yaojinpeng
 hello yaojinpeng
 hello yaojinpeng
 hello yaojinpeng
-hello yaojinpeng
-此文件内容是在 no-1-master 分支上 
+hello yaojinpeng 
+此文件内容是在 no-1-master 分支上 no-1-master test
 
 
 branch name ------> no-1-master
